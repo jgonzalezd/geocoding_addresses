@@ -1,0 +1,25 @@
+{
+  "repository": {},
+  "dependencies": {
+    "actioncable": "^5.0.0",
+    "bootstrap": "^3.3.7",
+    "breakfast-rails": "0.3.1",
+    "jquery": "^3.1.0",
+    "jquery-ujs": "^1.2.2",
+    "turbolinks": "^5.0.0",
+    "vue": "^2.1.10"
+  },
+  "devDependencies": {
+    "babel-brunch": "~6.0.0",
+    "babel-plugin-transform-runtime": "^6.22.0",
+    "brunch": "~2.8.2",
+    "clean-css-brunch": "~1.8.0",
+    "css-brunch": "^2.6.1",
+    "javascript-brunch": "~1.8.0",
+    "postcss-brunch": "^2.0.5",
+    "sass-brunch": "~2.6.3",
+    "uglify-js-brunch": "~1.7.0",
+    "vue-brunch": "^2.0.0",
+    "vueify": "^9.4.0"
+  }
+}
