@@ -1,7 +1,8 @@
 # Rails + Vuejs Geocoding app using the Google Geocode API 
 
 ## Intructions To Install:
-
+ * create a `.env.development` file into the root directory
+ * add `GOOGLE_GEOCODE_API: 'your_api_key_obtained_from_google_here'` to your .env file
  * `gem install bundler`
  * `bundle install`
  * `npm install`
